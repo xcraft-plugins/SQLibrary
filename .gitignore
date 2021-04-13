@@ -3,3 +3,5 @@
 /target
 /versions
 *.jardesc
+*.iml
+/.idea
